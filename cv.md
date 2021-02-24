@@ -34,5 +34,5 @@ SoftSwitch administration, SIP telephony, broadband internet.
 ## Education
 Kazakh agro-technical university named after S. Seifullin, energy faculty, "radio engineering, electronics and telecommunications"(2004 - 2008)
 
-## Language 
+## Language
 Basic english
